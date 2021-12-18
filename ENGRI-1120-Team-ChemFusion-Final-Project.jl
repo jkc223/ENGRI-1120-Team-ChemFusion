@@ -44,14 +44,17 @@ Smith School of Chemical and Biomolecular Engineering, Cornell University, Ithac
 
 # ╔═╡ 46c352c3-60f1-4718-8878-d0031d5bd0ca
 md"""
-### 1. Introduction
+### Introduction
 1,3-propanediol (also known as 3G), when polymerized, possesses various applications in making fabrics, adhesives, moldings, and other industrially important materials (NIH). As specified by our client, our team will be using sucrose, a common table sugar, which is much more affordable and accessible compared to other alternatives, to synthesize products that can appeal to a wider range of consumers. Therefore, the goal of this project is to turn sucrose (C12H22O11) into 1,3-propanediol (C3H8O2) through the coupling of various cell-free chemical reactions. Additionally, we have been mandated to produce a 95% pure target stream of 3G with a mass flow rate of 1.0 g/hr under an unlimited budget.
 
 """
 
+# ╔═╡ a204f740-2189-4456-a796-c2fd560b223d
+#space
+
 # ╔═╡ 4bcb9ef8-ea0a-480f-82f0-d15f5a7a7e43
 md"""
-### 2. Materials and Methods
+### Materials and Methods
 Fixed: 17 chips, 17 syringe pumps, 6 magic separators
 
 Variable: Sucrose, Glycerol
@@ -213,6 +216,9 @@ The discount rate $r_{j+1,j}$ will be company-specific as it’s related to how 
 __Taken__: A Refresher on Net Present Value, Amy Gallo, HBR, 11/19/14
 """
 
+
+# ╔═╡ 03877a8a-6d91-4271-adf1-bdc1c4718857
+#space
 
 # ╔═╡ 928ef8ae-264a-4448-ac08-3970a8d8d1db
 md"""
@@ -1097,18 +1103,24 @@ Given the initial capital investment of _$_34,100 and a yearly income of _$_18,7
 
 """
 
+# ╔═╡ 6b06ab19-9055-4b43-b794-d43e928dc967
+#space
+
 # ╔═╡ fe7af914-b934-480d-af63-01265ddb19d8
 md"""
-### 4. Conclusions
+### Conclusions
 The production of 1,3 propanediol from sucrose with the process above is indeed feasible and proven profitable in shortly coming years according to the financial analysis. Compared to the alternative approaches, our proposal exhibits greater potential. Our proposal not only produces multiple marketable products aside from 3G but also mitigates large and potentially harmful wastes to the public and the environment. With our process and further analyses, our client will rest assured of a good investment. 
 
 Concerning the regulated disposal system for the contaminated h2o, the process will need to be managed in such a way that these disposal streams will not be exposed to used water facilities. For instance, the system will need to be designed in a way to prevent the water from contaminating underground water systems. Nor can the streams be connected to natural water features as a way to “recycle” the potentially dangerous h2o back into the environment. To reduce the storage uptake of contaminated water, it would be best to evaporate it and safely dispose of the precipitate. However, this also brings into the concern of the energy and resources needed to evaporate a growing quantity of h2o. Regardless, wastewater evaporators could be implemented into the system. Wastewater evaporators are energy-efficient where the same amount of energy to extract the water is equal to the amount of water being extracted. They are also significantly more efficient and cost-effective than other chemical precipitation systems and are able to adapt to different conditions and are able to handle various forms of contaminants. 
 
 """
 
+# ╔═╡ 83563614-8f5d-4467-8f47-335538fda335
+#space
+
 # ╔═╡ 1fad21b1-365b-4cbb-9a38-c42bf5f46951
 md"""
-### 5. References
+### References
 - https://www.sigmaaldrich.com/US/en (for estimated prices of reactants needed to complete the reaction and products)
 
 - https://pubchem.ncbi.nlm.nih.gov/compound/1_3-Propanediol#section=ATR-IR-Spectra (background information on 3G)
@@ -2189,6 +2201,7 @@ version = "0.9.1+5"
 # ╟─9b33620b-d922-4416-9880-50b5d7ad7753
 # ╟─50d38e3a-60e1-43f9-8bf6-0a9ea34bc5a4
 # ╟─46c352c3-60f1-4718-8878-d0031d5bd0ca
+# ╟─a204f740-2189-4456-a796-c2fd560b223d
 # ╟─4bcb9ef8-ea0a-480f-82f0-d15f5a7a7e43
 # ╟─47bddebd-389d-41d9-ba71-2489040c1925
 # ╠═7b34264c-2a59-43fb-a079-a1c7ef367b8f
@@ -2196,6 +2209,7 @@ version = "0.9.1+5"
 # ╟─85777874-6873-4713-80ee-15f1dd844fd2
 # ╟─9ca77573-7112-49f9-ac97-1fa6e8f2cde0
 # ╟─b71202a6-843b-40ac-a029-46ee5cd7442b
+# ╟─03877a8a-6d91-4271-adf1-bdc1c4718857
 # ╟─928ef8ae-264a-4448-ac08-3970a8d8d1db
 # ╠═ce17d0fa-b262-4d94-b7c1-4fa16d3e16a6
 # ╟─723b1c85-e463-4c30-99f3-66bf59b46988
@@ -2256,7 +2270,9 @@ version = "0.9.1+5"
 # ╠═e0d00325-0123-4981-8860-50aa4273673c
 # ╠═385c312a-0a5a-4163-802a-9982dba8e936
 # ╟─8b0163d1-fd18-4a62-bbe3-8d59bbf45b88
+# ╟─6b06ab19-9055-4b43-b794-d43e928dc967
 # ╟─fe7af914-b934-480d-af63-01265ddb19d8
+# ╟─83563614-8f5d-4467-8f47-335538fda335
 # ╟─1fad21b1-365b-4cbb-9a38-c42bf5f46951
 # ╠═915e211e-5853-11ec-1c6b-51ba02d42502
 # ╟─8262c84a-1f81-469b-8e7e-b86266c578cd
